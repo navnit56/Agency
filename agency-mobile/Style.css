@@ -1910,6 +1910,10 @@ input[type="submit"] {
         height: 228px;
     padding: 2% 0% 0%;
     /* margin: 11% 0% 16% 6%; */
+    height: unset;
+}
+.submit{
+        margin-bottom: 7%;
 }
 .form-head{
             font-size: 13px;
@@ -1962,7 +1966,17 @@ input[type="submit"] {
     color: #666666;
     font-weight: 400;
     font-family: "Open Sans";
-    gap: 4%;
+   
+}
+.left3-para p{
+              margin-top: -5%;
+
+}
+.left3{
+    height: unset;
+}
+.right3{
+    margin-top: 60%;
 }
 .right3 img {
     width: 90%;
