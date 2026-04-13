@@ -2015,6 +2015,10 @@ input[type="submit"] {
            margin: 5%;
 
 }
+.btn5{
+        margin-left: 25%;
+
+}
 
 /* ---------------------------Hero 6------------------------------------ */
 .temp6{
@@ -2070,17 +2074,18 @@ input[type="submit"] {
 }
 /* -------------------------------------Hero 9------------------------------------------- */
 .fname,.lname ,.email9{
-        width: 96%;
+        
     /* height: 7%; */
     padding: 2%;
-    margin-top: 3%;
+    margin-top: 5%;
+            width: 73%;
 }
 .formsection9{
     flex-direction: column;
     padding: 0% 5%;
 }
 .btn9{
-        margin: 3% 0%;
+        margin: 4% 0%;
 }
 .foot9{
     height: unset;
@@ -2169,3 +2174,7 @@ input[type="submit"] {
 }
 
 }
+
+
+
+/* Ceated By NAVNIT KAKLOTAR Apr 13 , 17:37 At MAGECOMP LLP BHAVNAGAR */
